@@ -1,0 +1,23 @@
+label{
+	display: block;
+	padding: 10px;
+}
+body{
+	text-align: center;
+	background-color: blue;
+}
+div{
+	background-color: lightgreen;
+	text-align: center;
+	margin-right: 250px;
+	margin-left: 250px;
+	margin-top: 20px;
+    border-radius: 10%;
+}
+btn{
+	padding: 10px;
+}
+input[type=submit]{
+	background-color:violet ;
+	cursor: pointer;
+}
